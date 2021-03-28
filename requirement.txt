@@ -1,0 +1,12 @@
+pip install bs4
+
+# imports 
+import zipfile
+from lxml import etree
+from bs4 import BeautifulSoup
+import os
+import tempfile
+import shutil
+import re
+from xml.dom import minidom
+import codecs
